@@ -1,4 +1,4 @@
-👋 Hi, I’m @metamorphiq tech run by @kkevinluke and tech team. \n
+👋 Hi, I’m @metamorphiq tech run by @kkevinluke and tech team.
 👀 I’m interested in building AI-driven avatars, machine learning, and developing innovative apps that explore the future of human interaction with technology.
 🌱 I’m currently learning more about cloud infrastructure (AWS), avatar customization with Unity/Blender, and GPT-based large language models.
 💞️ I’m looking to collaborate on AI research, app development, and creative projects that fuse technology with spirituality and personal growth.
